@@ -6,7 +6,7 @@
 
 **Blake**: [Morphological Parser](https://github.com/smithnlp/wichi-parse), database design
 
-**Ashley**: Prototyping of front end, UX realization (link to her gitHub)
+**[Ashley](https://github.com/sassteve)**: Prototyping of front end, UX realization 
 
 **Zack**, **Elba**, **John**: Language analyst, database realization
 
